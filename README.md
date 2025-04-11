@@ -15,7 +15,7 @@ This site offers:
 
 Take a look at what Arctic Depth looks like across different languages and UI components. The screenshots highlight syntax themes, sidebar, tabs, terminal, and editor contrast.
 
-> ⚡ View it live: [https://arcticdepthshowcase.vercel.app](https://arcticdepthshowcase.vercel.app)
+> ⚡ View it live: [Showcase](https://arcticdepthshowcase.vercel.app)
 
 ---
 
