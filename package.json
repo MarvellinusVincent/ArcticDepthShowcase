@@ -11,13 +11,13 @@
     "chart.js": "^4.4.8",
     "chartjs-plugin-datalabels": "^2.2.0",
     "framer-motion": "^12.6.5",
+    "jest-worker": "^29.7.0",
     "jwt-decode": "^4.0.0",
     "path-key": "^4.0.0",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.30.0",
-    "react-scripts": "^5.0.1",
     "realm-web": "^2.0.1",
     "web-vitals": "^2.1.4",
     "zustand": "^5.0.3"
@@ -48,7 +48,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "babel-preset-react-app": "^10.1.0",
     "postcss": "^8.5.3",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^3.4.17"
   }
 }
