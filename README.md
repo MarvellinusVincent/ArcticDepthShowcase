@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# ❄️ Arctic Depth Theme – Showcase Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the official showcase site for the **Arctic Depth** Visual Studio Code theme — a cool, dark, and minimal look designed to elevate your coding atmosphere.
 
-## Available Scripts
+This site offers:
 
-In the project directory, you can run:
+- 🎨 A complete **visual overview** of the theme in use  
+- 🌌 A detailed breakdown of the **color palette** and its roles  
+- 📸 A high-resolution **screenshot** showcasing real-world code
+- 🔗 A direct link to **install Arctic Depth** from the VS Code Marketplace
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📷 Live Preview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Take a look at what Arctic Depth looks like across different languages and UI components. The screenshots highlight syntax themes, sidebar, tabs, terminal, and editor contrast.
 
-### `npm test`
+> ⚡ View it live: [https://arctic-depth.vercel.app](https://arctic-depth.vercel.app)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🎨 Why Arctic Depth?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Arctic Depth was built for those who want a theme that is:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Dark, but not dull — rich navy and deep blue tones give it depth  
+- Futuristic, but practical — cool accents and strong contrast improve clarity  
+- Minimal, but expressive — perfect for focused, stylish development
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧪 What's in the Showcase Site?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Tailwind CSS + Next.js** build for speed and style  
+- **Palette tables** with swatches and easily copyable hex codes
+- **Responsive design** that works on desktop and mobile
+- **Accessible color contrast** demonstrations
+- **Colorful icons and badges** for easy theme exploration
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🧩 Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Next.js  
+- Tailwind CSS  
+- Framer Motion (for smooth transitions)  
+- Shadcn/ui (for reusable UI components)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📥 Install the Theme
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> If you’re here for the actual theme:  
+👉 [Install Arctic Depth from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🧊 Created by
 
-### Analyzing the Bundle Size
+**Marvellinus Vincent**  
+🛠 Developer. 🎨 Designer. 🌍 Jakarta ↔ Indiana  
+Say hi on [GitHub](https://github.com/MarvellinusVincent) or tag `@MarvellinusVincent` if you’re using the theme!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This showcase site is open source under the MIT License.

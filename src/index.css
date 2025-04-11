@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer utilities {
+  .bg-radial-gradient {
+    background-image: radial-gradient(ellipse at center, var(--tw-gradient-stops));
+  }
+  
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animate-snowfall {
+    will-change: transform;
+    pointer-events: none;
+    user-select: none;
+  }
 }
